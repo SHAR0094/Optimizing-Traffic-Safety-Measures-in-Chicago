@@ -6,8 +6,7 @@ Analysing the causes of high fatality rates in Chicago using ML models. The effe
 For detailed walkthrough, please view the source code in order from:
 
 1.Data preparation 
-
-2. ML model analysis 
+2.ML model analysis 
 
 Models Used
 - Linear Regression 
