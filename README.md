@@ -13,7 +13,8 @@ MARS
 CART
 Random Forest 
 
-Conclusion
+Conclusion:
+
 Based on the results from the MARS model analysis, there are several recommendations. 
 In particular, nfrastructure improvements, education, and enhancing transportation networks. 
 
